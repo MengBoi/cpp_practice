@@ -1,0 +1,6 @@
+# Compiled executables (run_cpp.sh outputs extensionless binaries)
+*
+!*.*
+!*/
+
+main.cpp
